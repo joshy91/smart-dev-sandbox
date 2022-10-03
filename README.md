@@ -33,7 +33,7 @@ you may also have to delete previous containers and volumes as described below.
 2. If you don't already have Git on your system, download and install it from https://git-scm.com/downloads
 3. Clone this project 
 	```sh
-	git clone https://github.com/smart-on-fhir/smart-dev-sandbox.git
+	git clone https://github.com/joshy91/smart-dev-sandbox.git
 	```
 4. Change to the new directory
 	```sh
